@@ -1,8 +1,6 @@
 # About the project
 # Dr. Crypto - Your Ultimate Cryptocurrency Companion
 
-![Dr. Crypto Logo]
-
 Welcome to Dr. Crypto, a feature-rich web app that empowers you with comprehensive insights into the cryptocurrency world. Whether you're a seasoned trader or a crypto enthusiast, Dr. Crypto has got you covered.
 
 ## Features 🚀
